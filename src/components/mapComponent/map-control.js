@@ -2,8 +2,8 @@ import $, { getJSON } from "jquery";
 import 'leaflet/dist/leaflet.css';
 import './map.scss';
 
-import './controls/dist/leaflet-control-boxzoom';
-import './controls/dist/leaflet-control-boxzoom.css';
+import './controls/boxZoom/leaflet-control-boxzoom';
+import './controls/boxZoom/leaflet-control-boxzoom.css';
 import 'leaflet-minimap/dist/Control.MiniMap.min.css';
 
 const L =require ('leaflet');

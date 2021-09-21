@@ -16260,7 +16260,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
 }
 
 .with-background-image {
-    background-image:url(/leaflet-control-boxzoom.e0871e92.svg);
+    background-image:url(/leaflet-control-boxzoom.9a0ec464.svg);
     background-repeat:no-repeat;
     background-size:25px 25px; /* 25px image, 25px box; subtract 2px for padding on every side = 21px rendering height */
     background-position:2px 2px;
